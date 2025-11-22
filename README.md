@@ -1,5 +1,4 @@
 # merito-bigdata
-I see the conflict :o
+Hello World!
 
 test123456
-# zzz
